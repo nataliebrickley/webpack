@@ -1,0 +1,20 @@
+{
+  "name": "dist",
+  "authors": [
+    "Natalie Brickley <natt_rose@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/larkintuckerllc/hello-webcomponents",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^1.0.14"
+  }
+}
